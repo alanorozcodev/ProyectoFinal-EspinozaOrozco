@@ -1,0 +1,12 @@
+{
+  "name": "ultima-pre-entrega",
+  "version": "1.0.0",
+  "description": "- Ultima entrega del curso de JS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "sass --watch Style/scss/style.scss:Style/css/style.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
