@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PreEntrega2-Espinoza
 - Segunda pre entrega del curso de JS, se agregan objetos, arrays y buscadores
 - Ademas de agregar estilos con scss, para dar algo mas de vida a la pagina
@@ -25,6 +24,3 @@
         -Se creo boton para que el usuario pueda dar click en "listo" en lugar de escribirlo.
         -Se agregaron los precios a la vista para que sea mas amigable para el usuario.
         
-=======
-# ProyectoFinal-EspinozaOrozco
->>>>>>> cf82a6b2db395039f071952c0969472dc27d8c05
